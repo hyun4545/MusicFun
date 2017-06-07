@@ -1,0 +1,6 @@
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/hyun4545/MusicFun.git
+[submodule "WebAPI"]
+	path = WebAPI
+	url = https://github.com/hyun4545/MusicFun.git
