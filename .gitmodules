@@ -2,9 +2,9 @@
 [submodule "WebClient"]
 	path = WebClient
 	url = https://github.com/hyun4545/MusicFun_WebClient.git
-[submodule "Mobile"]
-	path = Mobile
-	url = https://github.com/hyun4545/MusicFun_Mobile.git
 [submodule "WebAPI"]
 	path = WebAPI
 	url = https://github.com/hyun4545/MusicFun_WebAPI.git
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/hyun4545/MusicFun_Mobile.git
